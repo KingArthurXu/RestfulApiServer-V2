@@ -96,11 +96,11 @@ if os.getenv("FLASK_INITDB") == "True":
     user_admin.roles.append(role_admin)
 
     from App.models.db import ShellFile
-    shell1 = ShellFile(name="before.sh", path="before.sh")
+    shell1 = ShellFile(name="bp.sh", path="bp.sh")
     db.session.add(shell1)
-    shell2 = ShellFile(name="after.sh", path="after.sh")
+    shell2 = ShellFile(name="before.sh", path="before.sh")
     db.session.add(shell2)
-    shell3 = ShellFile(name="bp.bat", path="bp.bat")
+    shell3 = ShellFile(name="after.sh", path="after.sh")
     db.session.add(shell3)
     db.session.commit()
     # # 自动分析脚本参数

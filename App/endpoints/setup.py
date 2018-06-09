@@ -4,6 +4,7 @@ from Cython.Distutils import build_ext
 ext_modules = [Extension("auth", ["auth.py"]),
                Extension("bpdbjobs", ["bpdbjobs.py"]),
                Extension("nbuapi", ["nbuapi.py"]),
+               Extension("decorators", ["decorators.py"]),
                ]
 setup(
     name = "BaaS cpy",
