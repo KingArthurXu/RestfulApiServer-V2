@@ -1,4 +1,4 @@
-FROM kingarthur/BaaS
+FROM kingarthur/baas
 MAINTAINER ArthurXu <qingyu.xu@veritas.com>
 
 ENV BAAS_VERSION=1.0
