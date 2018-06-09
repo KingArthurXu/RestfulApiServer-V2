@@ -1,0 +1,26 @@
+{% extends 'admin/master.html' %}
+{% block body %}
+{{ super() }}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1">
+            <h1>BaaS Api Server 管理</h1>
+            {% if current_user.is_authenticated %}
+            <p class="lead">
+                Welcome,  后台管理员
+            </p>
+            {% endif %}
+            <p>
+                可以在对用户进行管理.
+            </p>
+            <p>
+                可以在这里上传Shell脚本.
+            </p>
+            <p><a href="/">API 接口</a></p>
+            {% if current_user.is_authenticated %}
+            <a class="btn btn-primary" href="/admin/mylogoutview"><i class="glyphicon glyphicon-chevron-left"></i> Logout</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock body %}
