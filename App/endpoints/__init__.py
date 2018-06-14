@@ -37,7 +37,13 @@ api = Api(
     description='''<p><a class="btn btn-primary" href="/admin/">管理接口</a></p>''',
     # contact='qingyu.xu@veritas.com',
     # contact_url='http://www.veritas.com',
+    default_mediatype='application/vnd.netbackup+json;version=1.0',
 )
+
+# Swagger UI document
+# api = Api(app, doc=False)
+# Swagger UI Configuration
+app.config.SWAGGER_UI_DOC_EXPANSION = 'list'
 
 
 @api.errorhandler
@@ -54,13 +60,12 @@ def database_not_found_error_handler(e):
     return {'message': 'A database result was required but none was found.'}, 404
 
 
-
 from App.endpoints.auth import ns_auth
+from App.endpoints.nbuapi import ns_nbu
 # from App.restapi.endpoints.bpimagelist import ns_bpimagelist
 # from App.restapi.endpoints.bpdbjobs import ns_bpdbjobs
-from App.endpoints.nbuapi import ns_nbu
+
 api.add_namespace(ns_auth)
+api.add_namespace(ns_nbu)
 # api.add_namespace(ns_bpimagelist)
 # api.add_namespace(ns_bpdbjobs)
-api.add_namespace(ns_nbu)
-

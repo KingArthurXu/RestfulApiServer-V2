@@ -27,21 +27,27 @@ log = logging.getLogger(__name__)
 
 
 def exec_command(*params):
-    out = ''
+    output = ''
     with open(os.devnull, 'w') as FNULL:
         try:
             logging.info("Start execute command")
-            # out = subprocess.Popen(params,stdout=subprocess.PIPE, stderr=FNULL).communicate()[0].strip()
-            out = subprocess.Popen(params, cwd='C:\Users\Qingyu.Xu\PycharmProjects\RestfulApiServer\App\static\uploads',
-                                   stdout=subprocess.PIPE, stderr=FNULL).communicate()[0].strip()
+            # output = subprocess.Popen(params,stdout=subprocess.PIPE, stderr=FNULL).communicate()[0].strip()
+            # output = subprocess.Popen(params,
+            #                           cwd='C:\Users\qingy\PycharmProjects\RestfulApiServer\App\static\uploads',
+                                      # stdout=subprocess.PIPE, stderr=FNULL).communicate()[0].strip()
+
+            child = subprocess.Popen(params, stdout=subprocess.PIPE, stderr=FNULL)
+            output = child.communicate()[0].splitlines()
+
         except subprocess.CalledProcessError:
+            pass
             # logging.warn("Can't reach host {0}".format(host))
-            logging.warn("Failed to execute {0}".format(command))
-        if len(out) != 0:
-            return out
+            # logging.warn("Failed to execute {0}".format(command))
+        if len(output) != 0:
+            return output
 
 if __name__ == "__main__":
     # out = exec_command('C:\\Users\\Qingyu.Xu\\PycharmProjects\\RestfulApiServer\\App\\static\\uploads\\bp.bat')
-    out = exec_command('hostname')
+    out = exec_command('ipconfig ')
     print out
 

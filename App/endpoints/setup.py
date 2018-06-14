@@ -7,8 +7,8 @@ ext_modules = [Extension("auth", ["auth.py"]),
                Extension("decorators", ["decorators.py"]),
                ]
 setup(
-    name = "BaaS cpy",
-    cmdclass = {'build_ext': build_ext},
-    ext_modules = ext_modules
+    name="BaaS cpy",
+    cmdclass={'build_ext': build_ext},
+    ext_modules=ext_modules
 )
 # python setup.py build_ext --inplace
