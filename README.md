@@ -33,11 +33,11 @@
     shell2 = ShellFile(name=u"before.sh", path=u"before.sh")
     shell3 = ShellFile(name=u"after.sh", path=u"after.sh")
     
-    aps_jobid='[baas.jobs.apsjobs:job1-1]'
-    job1 = ApsJobs(aps_jobid=aps_jobid, aps_func='baas.jobs.apsjobs:job1', aps_args='888 888',
+    aps_jobid='[baas.jobs.jobs:job1-1]'
+    job1 = ApsJobs(aps_jobid=aps_jobid, aps_func='baas.jobs.jobs:job1', aps_args='888 888',
                    aps_tirgger='cron', aps_cron='*/2 * * * * * *')
-    aps_jobid = '[baas.jobs.apsjobs:shell_job]'
-    job2 = ApsJobs(aps_jobid=aps_jobid, aps_func='baas.jobs.apsjobs:shell_job', aps_args='bp.bat 999 999',
+    aps_jobid = '[baas.jobs.jobs:shell_job]'
+    job2 = ApsJobs(aps_jobid=aps_jobid, aps_func='baas.jobs.jobs:shell_job', aps_args='bp.bat 999 999',
                    aps_tirgger='cron', aps_cron='*/2 * * * * * *')
     
     session = db.create_session({})()

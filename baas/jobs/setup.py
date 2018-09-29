@@ -6,7 +6,7 @@ from distutils.core import setup
 from distutils.extension import Extension
 from Cython.Distutils import build_ext
 ext_modules = [
-    Extension("apsjobs", ["apsjobs.py"]),
+    Extension("apsjobs", ["jobs.py"]),
     Extension("events", ["events.py"]),
     ]
 setup(
