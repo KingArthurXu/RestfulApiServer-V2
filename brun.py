@@ -74,7 +74,7 @@ else:
 if __name__ == '__main__':
 
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'
-    flask_port = os.getenv("FLASK_PORT") if os.getenv("FLASK_PORT") else '5000'
+    flask_port = os.getenv("FLASK_PORT") if os.getenv("FLASK_PORT") else '5001'
     # flask_debug = app.config['FLASK_DEBUG']
     # application.run(host=flask_host, port=int(flask_port), debug=bool(flask_debug))
     app.run(host=flask_host, port=int(flask_port))
