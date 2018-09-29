@@ -2,7 +2,9 @@
 # cpython some module
 
 chmod -R 755 ./static/uploads/*
->./log/job.log
+>./log/baas.log
+>./log/baas_jobs.log
+
 function for_dir()
 {
     for file in `ls $1`
@@ -23,3 +25,6 @@ function for_dir()
 }
 
 for_dir .
+
+find . -name '*.pyc' | xargs rm -rf
+find . -name '*.c' | xargs rm -rf
