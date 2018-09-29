@@ -6,7 +6,7 @@ ENV BAAS_VERSION=1.1
 ADD ./ /baas
 
 VOLUME /baas
-EXPOSE 5000
+EXPOSE 5000, 5001
 WORKDIR /baas
 
 CMD ["/usr/bin/bash", "run_guniconrn.sh"]
