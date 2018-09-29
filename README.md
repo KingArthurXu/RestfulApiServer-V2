@@ -18,6 +18,11 @@
 加入Manage
 加入shell
 重建数据库
+
+# 20180929
+utf8问题
+job目录不能cython
+
     
     python manage.py shell
     
