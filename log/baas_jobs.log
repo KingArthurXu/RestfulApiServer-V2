@@ -148,3 +148,1073 @@ IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
 this is a test
 
 -----------------------------------------
+DEBUG: 2018-09-29 15:48:58: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:48:58.008701
+finish_at : 2018-09-29 15:48:58.017646
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:00: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:00.003310
+finish_at : 2018-09-29 15:49:00.011891
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:02: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:02.007612
+finish_at : 2018-09-29 15:49:02.016662
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:04: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:04.006884
+finish_at : 2018-09-29 15:49:04.016235
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:06: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:06.007475
+finish_at : 2018-09-29 15:49:06.015146
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:08: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:08.008785
+finish_at : 2018-09-29 15:49:08.016478
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:10: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:10.005310
+finish_at : 2018-09-29 15:49:10.012972
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:12: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:12.005155
+finish_at : 2018-09-29 15:49:12.013399
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:14: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:14.003073
+finish_at : 2018-09-29 15:49:14.012108
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:16: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:16.007906
+finish_at : 2018-09-29 15:49:16.017792
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:18: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:18.008026
+finish_at : 2018-09-29 15:49:18.015743
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:20: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:20.002543
+finish_at : 2018-09-29 15:49:20.010392
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:22: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:22.007281
+finish_at : 2018-09-29 15:49:22.016112
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:24: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:24.007544
+finish_at : 2018-09-29 15:49:24.015126
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:26: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:26.006455
+finish_at : 2018-09-29 15:49:26.014176
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:28: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:28.008147
+finish_at : 2018-09-29 15:49:28.016576
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:30: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:30.007231
+finish_at : 2018-09-29 15:49:30.015230
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:32: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:32.002002
+finish_at : 2018-09-29 15:49:32.010679
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:34: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:34.008624
+finish_at : 2018-09-29 15:49:34.017764
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:36: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:36.003886
+finish_at : 2018-09-29 15:49:36.012526
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:38: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:38.004975
+finish_at : 2018-09-29 15:49:38.013980
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:40: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:40.003443
+finish_at : 2018-09-29 15:49:40.011833
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:42: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:42.007273
+finish_at : 2018-09-29 15:49:42.015626
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:44: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:44.003601
+finish_at : 2018-09-29 15:49:44.013182
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:46: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:46.007053
+finish_at : 2018-09-29 15:49:46.015117
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:48: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:48.008884
+finish_at : 2018-09-29 15:49:48.018230
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:50: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:50.004518
+finish_at : 2018-09-29 15:49:50.013730
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:52: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:52.004179
+finish_at : 2018-09-29 15:49:52.012117
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:54: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:54.007030
+finish_at : 2018-09-29 15:49:54.016108
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:56: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:56.003390
+finish_at : 2018-09-29 15:49:56.012069
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:49:58: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:49:58.007509
+finish_at : 2018-09-29 15:49:58.018217
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:00: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:00.007082
+finish_at : 2018-09-29 15:50:00.015841
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:02: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:02.006985
+finish_at : 2018-09-29 15:50:02.017878
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:04: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:04.006564
+finish_at : 2018-09-29 15:50:04.013681
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:06: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:06.006378
+finish_at : 2018-09-29 15:50:06.014427
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:08: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:08.006043
+finish_at : 2018-09-29 15:50:08.014166
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:10: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:10.007307
+finish_at : 2018-09-29 15:50:10.016769
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:12: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:12.003812
+finish_at : 2018-09-29 15:50:12.012283
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:14: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:14.002734
+finish_at : 2018-09-29 15:50:14.010374
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:16: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:16.007722
+finish_at : 2018-09-29 15:50:16.017029
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:18: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:18.004724
+finish_at : 2018-09-29 15:50:18.012972
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:20: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:20.008019
+finish_at : 2018-09-29 15:50:20.016160
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:22: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:22.003611
+finish_at : 2018-09-29 15:50:22.012058
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:24: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:24.003659
+finish_at : 2018-09-29 15:50:24.011919
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:26: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:26.007531
+finish_at : 2018-09-29 15:50:26.016102
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:28: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:28.003086
+finish_at : 2018-09-29 15:50:28.011623
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:30: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:30.007366
+finish_at : 2018-09-29 15:50:30.015326
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:32: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:32.006665
+finish_at : 2018-09-29 15:50:32.015689
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:34: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:34.008387
+finish_at : 2018-09-29 15:50:34.016932
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:36: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:36.002503
+finish_at : 2018-09-29 15:50:36.010663
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:38: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:38.007009
+finish_at : 2018-09-29 15:50:38.016037
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:40: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:40.003345
+finish_at : 2018-09-29 15:50:40.012051
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:42: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:42.007262
+finish_at : 2018-09-29 15:50:42.017288
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:44: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:44.006753
+finish_at : 2018-09-29 15:50:44.016240
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:46: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:46.007542
+finish_at : 2018-09-29 15:50:46.018158
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:48: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:48.003510
+finish_at : 2018-09-29 15:50:48.012234
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:50: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:50.003256
+finish_at : 2018-09-29 15:50:50.013123
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:52: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:52.008186
+finish_at : 2018-09-29 15:50:52.017614
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:54: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:54.006484
+finish_at : 2018-09-29 15:50:54.013965
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:56: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:56.005906
+finish_at : 2018-09-29 15:50:56.016078
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:50:58: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:50:58.005398
+finish_at : 2018-09-29 15:50:58.016012
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:00: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:00.003615
+finish_at : 2018-09-29 15:51:00.012030
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:02: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:02.008024
+finish_at : 2018-09-29 15:51:02.017495
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:04: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:04.007229
+finish_at : 2018-09-29 15:51:04.016808
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:06: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:06.008104
+finish_at : 2018-09-29 15:51:06.017093
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:08: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:08.005518
+finish_at : 2018-09-29 15:51:08.013352
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:10: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:10.008015
+finish_at : 2018-09-29 15:51:10.016286
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:12: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:12.004417
+finish_at : 2018-09-29 15:51:12.012322
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:14: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:14.006209
+finish_at : 2018-09-29 15:51:14.015062
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:16: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:16.002440
+finish_at : 2018-09-29 15:51:16.011139
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:18: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:18.007815
+finish_at : 2018-09-29 15:51:18.018959
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:20: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:20.008358
+finish_at : 2018-09-29 15:51:20.016299
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:22: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:22.004167
+finish_at : 2018-09-29 15:51:22.012359
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:24: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:24.004107
+finish_at : 2018-09-29 15:51:24.012254
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:26: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:26.007803
+finish_at : 2018-09-29 15:51:26.015972
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:28: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:28.006516
+finish_at : 2018-09-29 15:51:28.016055
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:30: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:30.003705
+finish_at : 2018-09-29 15:51:30.011935
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:32: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:32.007405
+finish_at : 2018-09-29 15:51:32.017242
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:34: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:34.007883
+finish_at : 2018-09-29 15:51:34.019739
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:36: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:36.009982
+finish_at : 2018-09-29 15:51:36.020358
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:38: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:38.005042
+finish_at : 2018-09-29 15:51:38.015825
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:40: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:40.010753
+finish_at : 2018-09-29 15:51:40.021417
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:42: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:42.004189
+finish_at : 2018-09-29 15:51:42.013755
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:44: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:44.003232
+finish_at : 2018-09-29 15:51:44.010919
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:46: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:46.007076
+finish_at : 2018-09-29 15:51:46.017085
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:48: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:48.006895
+finish_at : 2018-09-29 15:51:48.016127
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:50: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:50.007733
+finish_at : 2018-09-29 15:51:50.017684
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:52: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:52.002288
+finish_at : 2018-09-29 15:51:52.011403
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:54: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:54.007646
+finish_at : 2018-09-29 15:51:54.016074
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:56: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:56.007466
+finish_at : 2018-09-29 15:51:56.015411
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:51:58: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:51:58.006585
+finish_at : 2018-09-29 15:51:58.016608
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:00: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:00.004641
+finish_at : 2018-09-29 15:52:00.015288
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:02: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:02.009440
+finish_at : 2018-09-29 15:52:02.017373
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:04: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:04.003491
+finish_at : 2018-09-29 15:52:04.012287
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:06: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:06.008838
+finish_at : 2018-09-29 15:52:06.016728
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:08: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:08.006686
+finish_at : 2018-09-29 15:52:08.015739
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:10: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:10.008283
+finish_at : 2018-09-29 15:52:10.020327
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:12: <F#>jobs.py:<L#>125 * <Thread>140304414676736 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:12.004362
+finish_at : 2018-09-29 15:52:12.013367
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:14: <F#>jobs.py:<L#>125 * <Thread>140304380053248 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:14.005019
+finish_at : 2018-09-29 15:52:14.013228
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:16: <F#>jobs.py:<L#>125 * <Thread>140304405231360 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:16.002635
+finish_at : 2018-09-29 15:52:16.010146
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:18: <F#>jobs.py:<L#>125 * <Thread>140303897982720 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:18.006758
+finish_at : 2018-09-29 15:52:18.014745
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:20: <F#>jobs.py:<L#>125 * <Thread>140304396838656 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:20.004216
+finish_at : 2018-09-29 15:52:20.012595
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:22: <F#>jobs.py:<L#>125 * <Thread>140303889590016 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:22.003498
+finish_at : 2018-09-29 15:52:22.011370
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:24: <F#>jobs.py:<L#>125 * <Thread>140304423069440 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:24.006515
+finish_at : 2018-09-29 15:52:24.015464
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:26: <F#>jobs.py:<L#>125 * <Thread>140303881197312 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:26.004250
+finish_at : 2018-09-29 15:52:26.013702
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:28: <F#>jobs.py:<L#>125 * <Thread>140304388445952 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:28.003294
+finish_at : 2018-09-29 15:52:28.011691
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------
+DEBUG: 2018-09-29 15:52:30: <F#>jobs.py:<L#>125 * <Thread>140303872804608 #> 
+job_id    : xuqy
+run_at    : 2018-09-29 15:52:30.006745
+finish_at : 2018-09-29 15:52:30.015190
+Output    : IMAGE ClientName Data1 Data2 Version BackupID
+IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509
+111
+this is a test
+
+-----------------------------------------

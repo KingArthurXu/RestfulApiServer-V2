@@ -29,3 +29,4 @@ for_dir .
 
 find . -name '*.pyc' | xargs rm -rf
 find . -name '*.c' | xargs rm -rf
+
