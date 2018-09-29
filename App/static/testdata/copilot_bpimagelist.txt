@@ -1,6 +1,0 @@
-IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464611509 Oracle_Copilot 4 *NULL* oracle Full 0 9 1464611509 8 2147483647 0 0 3150848 9 1 1 0 Oracle_Copilot_1464611509_FULL.f *NULL* *NULL* 0 1 0 0 0 orcl_1388827487_PROXY 0 0 0 0 0 0 0 *NULL* 0 0 0 *NULL* 65 1 0 4544 1 0 *NULL* SnapSLP 3 1464611508 0 0 *NULL* *NULL* 1 1 0 0
-HISTO 0 0 0 0 0 0 0 0 0 0
-FRAG 1 1 3150848 0 0 0 0 /copilot1 copilot.nbappliance.lab 0 0 0 0 0 remote_vxfs:1:vxfs:/shares/copilot1:NBU+2016.05.30.05h31m52s+Oracle_Copilot+10869:/shares/copilot1:/tmp/_vrts_frzn_img__copilot1_10869_1:rhel-guest.nbappliance.lab_1464611508 2147483647 0 0 0 0 0 0 0 1464611517 1 2 *NULL* *NULL* 0 0
-IMAGE rhel-guest.nbappliance.lab 0 1 12 rhel-guest.nbappliance.lab_1464607072 Oracle_Copilot 4 *NULL* oracle Full 0 9 1464607072 24 2147483647 0 0 3131392 9 1 1 0 Oracle_Copilot_1464607072_FULL.f *NULL* *NULL* 0 1 0 0 0 orcl_1388827487_PROXY 0 0 0 0 0 0 0 *NULL* 0 0 0 *NULL* 10 1 0 4544 1 0 *NULL* SnapSLP 3 1464607071 0 0 *NULL* *NULL* 1 1 0 0
-HISTO 0 0 0 0 0 0 0 0 0 0
-FRAG 1 1 3131392 0 0 0 0 /copilot1 copilot.nbappliance.lab 0 0 0 0 0 remote_vxfs:1:vxfs:/shares/copilot1:NBU+2016.05.30.04h17m54s+Oracle_Copilot+26310:/shares/copilot1:/tmp/_vrts_frzn_img__copilot1_26310_1:rhel-guest.nbappliance.lab_1464607071 2147483647 0 0 0 0 0 0 0 1464607096 1 2 *NULL* *NULL* 0 0
