@@ -1,0 +1,9 @@
+INFO: 2018-09-29 12:57:24: <F#>manage.py:<L#>29 * <Thread>139905756428096 #> logging starts
+INFO: 2018-09-29 12:57:24: <F#>frun.py:<L#>10 * <Thread>139905756428096 #> logging starts
+INFO: 2018-09-29 12:57:24: <F#>_internal.py:<L#>88 * <Thread>139905756428096 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-09-29 12:57:30: <F#>_internal.py:<L#>88 * <Thread>139905579411200 #> 192.168.92.1 - - [29/Sep/2018 12:57:30] "GET / HTTP/1.1" 200 -
+INFO: 2018-09-29 12:57:30: <F#>_internal.py:<L#>88 * <Thread>139905571018496 #> 192.168.92.1 - - [29/Sep/2018 12:57:30] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-09-29 12:57:43: <F#>manage.py:<L#>29 * <Thread>140711634159424 #> logging starts
+INFO: 2018-09-29 12:57:43: <F#>brun.py:<L#>21 * <Thread>140711634159424 #> logging starts
+INFO: 2018-09-29 12:57:43: <F#>_internal.py:<L#>88 * <Thread>140711634159424 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-09-29 12:57:47: <F#>_internal.py:<L#>88 * <Thread>140711462889216 #> 192.168.92.1 - - [29/Sep/2018 12:57:47] "GET / HTTP/1.1" 200 -

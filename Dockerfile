@@ -10,4 +10,4 @@ EXPOSE 5000
 EXPOSE 5001
 WORKDIR /baas
 
-CMD ["/usr/bin/bash", "run_guniconrn.sh"]
+CMD ["/usr/bin/bash", "run_gunicorn.sh"]
