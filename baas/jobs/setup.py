@@ -1,9 +1,14 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# __author__ = 'Arthur Xu'
+# 编译模块使用
 from distutils.core import setup
 from distutils.extension import Extension
 from Cython.Distutils import build_ext
-ext_modules = [Extension("events", ["events.py"]),
-               Extension("jobs", ["jobs.py"]),
-               ]
+ext_modules = [
+    Extension("apsjobs", ["apsjobs.py"]),
+    Extension("events", ["events.py"]),
+    ]
 setup(
     name="baas cpy",
     cmdclass={'build_ext': build_ext},

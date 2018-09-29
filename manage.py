@@ -17,6 +17,12 @@ from flask_script import Manager, Shell
 # from flask_migrate import Migrate, MigrateCommand
 
 from baas.models.dbs import db, ApsJobs, User, Role, ShellFile
+#
+#  500 : { "message": "An unhandled exception occurred." } http://192.168.92.139:5000/swagger.json
+#
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 
 logging.config.fileConfig('logging.conf')

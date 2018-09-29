@@ -22,3 +22,4 @@ from flask_mail import Mail
 # scheduler.init_app(app)
 # scheduler.add_listener(events_listener, LISTENER_JOB)
 # scheduler.start()
+
