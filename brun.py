@@ -20,6 +20,8 @@ from manage import app, scheduler, init_jobs
 logging.config.fileConfig('logging.conf')
 logging.info('logging starts')
 
+app.app_context().push()
+
 # 定时任务
 LISTENER_JOB = (EVENT_JOB_ADDED |
                 EVENT_JOB_REMOVED |
@@ -56,17 +58,15 @@ else:
     f = open("scheduler.lock", "wb")
     import fcntl
     import atexit
+    def unlock():
+        fcntl.flock(f, fcntl.LOCK_UN)
+        f.close()
+    atexit.register(unlock)
     try:
         fcntl.flock(f, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        logging.DEBUG("Hold lock of scheduler.lock")
         scheduler.add_listener(events_listener, LISTENER_JOB)
         scheduler.start()
-        from baas.models import init_jobs
         init_jobs()
-        def unlock():
-            fcntl.flock(f, fcntl.LOCK_UN)
-            f.close()
-        atexit.register(unlock)
     except:
         pass
 
